@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TimeAngleAPI/TimeAngleAPI.csproj" />
+  <Project Path="TimeAngleAPITests/TimeAngleAPITests.csproj" />
+</Solution>
